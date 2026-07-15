@@ -6,10 +6,10 @@ Frontend Developer specializing in modern, responsive, and high-performance web 
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer passionate about creating exceptional user experiences.
-- 🌱 Currently learning **Next.js**, **Backend Development**, and **AI-powered Web Applications**.
-- 🎯 Interested in scalable web applications, UI/UX, and software architecture.
-- 🤝 Open to collaborating on open-source projects and innovative web applications.
+- 💻 Frontend Developer with a strong focus on React and TypeScript.
+- 🌱 Currently expanding my expertise in **Next.js**, **Backend Development**, and **AI-powered Web Applications**.
+- 🎯 Passionate about building scalable, performant, and user-centric web applications.
+- 🤝 Open to collaboration on open-source projects and innovative frontend solutions.
 
 ---
 
@@ -35,25 +35,25 @@ Frontend Developer specializing in modern, responsive, and high-performance web 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarTaima&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarTaima&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
 ## 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)](https://github.com/YOUR_USERNAME)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OmarTaima&theme=github-dark)](https://github.com/OmarTaima)
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Email: your.email@example.com
+- GitHub: https://github.com/OmarTaima
+- LinkedIn: *Add your LinkedIn profile here*
 
 ---
 
-> *"Clean code always looks like it was written by someone who cares."*
+> *"Building clean, scalable, and user-focused web experiences."*
