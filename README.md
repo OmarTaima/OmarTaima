@@ -35,14 +35,6 @@ Frontend Developer specializing in modern, responsive, and high-performance web 
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarTaima&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarTaima&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 📈 Contribution Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OmarTaima&theme=github-dark)](https://github.com/OmarTaima)
