@@ -43,7 +43,6 @@ Frontend Developer specializing in modern, responsive, and high-performance web 
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/OmarTaima
 - LinkedIn: https://www.linkedin.com/in/omar-taima-84670b3a7/
 
 ---
