@@ -112,21 +112,18 @@ A comprehensive dashboard developed for marketing agencies to manage clients, ca
 
 ---
 
-# 📈 GitHub Activity
+## 📈 GitHub Activity
 
-> GitHub statistics are temporarily unavailable because the public GitHub Readme Stats deployment is paused.
-
-You can still view my activity and projects here:
-
-🔗 **https://github.com/OmarTaima**
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=OmarTaima&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
 # 🤝 Let's Connect
 
-- GitHub: https://github.com/OmarTaima
-- LinkedIn: *(Add your LinkedIn profile)*
-- Email: *(Add your professional email)*
+- LinkedIn: *www.linkedin.com/in/omar-taima-84670b3a7*
+- Email: *itzdiaz2018@gmail.com*
 
 ---
 
