@@ -1,18 +1,11 @@
-<h1 align="center">Hi 👋, I'm Omar Taima</h1>
+<h1 align="center">Hi , I'm Omar Taima</h1>
 
 <p align="center">
 Frontend Developer specializing in modern, responsive, and high-performance web applications.<br/>
 Passionate about building scalable, maintainable, and user-centric software with React and TypeScript.
 </p>
 
-<p align="center">
-  <a href="https://github.com/OmarTaima">
-    <img src="https://img.shields.io/badge/GitHub-OmarTaima-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/omar-taima-84670b3a7">
-    <img src="https://img.shields.io/badge/LinkedIn-Omar%20Taima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+
 
 ---
 
@@ -26,7 +19,7 @@ I'm continuously expanding my knowledge in **Next.js**, **Backend Development**,
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -56,9 +49,9 @@ I'm continuously expanding my knowledge in **Next.js**, **Backend Development**,
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 📌 Job Application Maker
+##  Job Application Maker
 
 ### Enterprise Applicant Tracking System (ATS)
 
@@ -86,7 +79,7 @@ https://github.com/Saber-Group-EG/Job-Application-Maker
 
 ---
 
-## 📌 Marketing Management Dashboard
+##  Marketing Management Dashboard
 
 ### Enterprise Marketing Management Platform
 
@@ -115,7 +108,7 @@ https://github.com/Saber-Group-EG/marktingmangmentdashboard
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 - Next.js
 - Node.js & Express
@@ -124,7 +117,7 @@ https://github.com/Saber-Group-EG/marktingmangmentdashboard
 
 ---
 
-## 📈 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=OmarTaima&theme=github-dark&hide_border=true" />
@@ -132,7 +125,7 @@ https://github.com/Saber-Group-EG/marktingmangmentdashboard
 
 ---
 
-# 🤝 Let's Connect
+#  Let's Connect
 
 <p>
 
