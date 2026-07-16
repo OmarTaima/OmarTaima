@@ -1,25 +1,23 @@
-<h1 align="center">Hi , I'm Omar Taima</h1>
+<h1 align="center">Hi 👋, I'm Omar Taima</h1>
 
 <p align="center">
 Frontend Developer specializing in modern, responsive, and high-performance web applications.<br/>
 Passionate about building scalable, maintainable, and user-centric software with React and TypeScript.
 </p>
 
-
-
 ---
 
 # 👨‍💻 About Me
 
-I'm a **Frontend Developer** passionate about building enterprise-grade web applications with modern technologies, scalable architecture, and intuitive user experiences.
+I'm a **Frontend Developer** passionate about building enterprise-grade web applications with modern technologies, scalable architecture, and exceptional user experiences.
 
-My expertise lies in developing maintainable React applications using **TypeScript**, emphasizing reusable component architecture, efficient state management, performance optimization, and clean code principles.
+My expertise lies in developing maintainable React applications using **TypeScript**, with a strong emphasis on reusable component architecture, efficient state management, performance optimization, and clean code principles.
 
-I'm continuously expanding my knowledge in **Next.js**, **Backend Development**, and **AI-powered Web Applications** to become a well-rounded software engineer.
+I'm continuously expanding my expertise in **Next.js**, **Backend Development**, and **AI-powered Web Applications** to become a well-rounded software engineer.
 
 ---
 
-#  Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
@@ -37,9 +35,9 @@ I'm continuously expanding my knowledge in **Next.js**, **Backend Development**,
 ### State Management & Data Fetching
 
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TanStack React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
-### Tools
+### Tools & Technologies
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -49,25 +47,25 @@ I'm continuously expanding my knowledge in **Next.js**, **Backend Development**,
 
 ---
 
-#  Featured Projects
+# 🚀 Featured Projects
 
-##  Job Application Maker
+## 📌 Job Application Maker
 
 ### Enterprise Applicant Tracking System (ATS)
 
-A bilingual recruitment platform designed to streamline the entire hiring lifecycle—from job creation and applicant tracking to interview management, job offers, and contract administration.
+A comprehensive bilingual recruitment platform designed to streamline the complete hiring lifecycle—from job creation and applicant tracking to interview management, job offers, and contract administration.
 
-### Highlights
+### Key Features
 
 - Multi-company architecture
 - End-to-end applicant tracking workflow
 - Interview scheduling and evaluation
-- Job offers and contract generation
+- Job offer and contract management
 - Role-based access control
 - Recruitment analytics dashboard
 - Dynamic email templates
-- English & Arabic (RTL/LTR)
-- Responsive UI with Dark Mode
+- English & Arabic localization (RTL/LTR)
+- Responsive interface with Dark Mode support
 
 **Tech Stack**
 
@@ -79,24 +77,24 @@ https://github.com/Saber-Group-EG/Job-Application-Maker
 
 ---
 
-##  Marketing Management Dashboard
+## 📌 Marketing Management Dashboard
 
 ### Enterprise Marketing Management Platform
 
 A comprehensive platform developed for marketing agencies to manage clients, campaigns, quotations, contracts, services, project portfolios, and reporting through a modern bilingual interface.
 
-### Highlights
+### Key Features
 
 - Client onboarding & CRM
 - Campaign planning & strategy
 - Quotation & PDF generation
 - Contract lifecycle management
 - Service & package management
-- Project portfolio
+- Project portfolio management
 - Analytics dashboard
 - Secure client account management
-- English & Arabic localization
-- Responsive UI with Dark & Light themes
+- English & Arabic localization (RTL/LTR)
+- Responsive interface with Dark & Light themes
 
 **Tech Stack**
 
@@ -108,7 +106,7 @@ https://github.com/Saber-Group-EG/marktingmangmentdashboard
 
 ---
 
-#  Currently Learning
+# 📚 Currently Learning
 
 - Next.js
 - Node.js & Express
@@ -117,17 +115,33 @@ https://github.com/Saber-Group-EG/marktingmangmentdashboard
 
 ---
 
-##  GitHub Activity
+# 📈 GitHub Activity
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=OmarTaima&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=OmarTaima&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-#  Let's Connect
+# 💼 Open to Opportunities
 
-<p>
+I'm currently open to **Frontend Developer** and **Frontend Software Engineer** opportunities.
+
+I'm particularly interested in roles involving:
+
+- React & TypeScript
+- Enterprise Web Applications
+- Frontend Architecture
+- Modern UI/UX Development
+- Scalable Software Solutions
+
+If you're looking for a developer who enjoys solving complex problems and building high-quality web applications, I'd be happy to connect.
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
 
 <a href="https://github.com/OmarTaima">
 <img src="https://img.shields.io/badge/GitHub-OmarTaima-181717?style=for-the-badge&logo=github"/>
@@ -138,7 +152,7 @@ https://github.com/Saber-Group-EG/marktingmangmentdashboard
 </a>
 
 <a href="mailto:itzdiaz2018@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-itzdiaz2018%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
