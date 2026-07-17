@@ -160,6 +160,7 @@ If you're looking for a developer who enjoys solving complex problems and buildi
 ---
 
 <div align="center">
+  
 ### *"Building scalable software with clean architecture and exceptional user experiences."*
 
 </div>
